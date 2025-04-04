@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "stickers.json"
+  ],
+  "homeserver_url": "https://matrix.polizielocali.it"
+}
